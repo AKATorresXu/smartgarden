@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="farmUser1222"/>
+    <version value="5"/>
+    <list>
+        <mapping class="com.example.obtorres.smartgarden.farmUser"></mapping>
+        <mapping class="com.example.obtorres.smartgarden.FriutMore"></mapping>
+    </list>
+</litepal>
